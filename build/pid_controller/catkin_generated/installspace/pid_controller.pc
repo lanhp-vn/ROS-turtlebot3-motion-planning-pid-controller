@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Lab3_lan_pham_ws/install
+
+Name: pid_controller
+Description: Description of pid_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
